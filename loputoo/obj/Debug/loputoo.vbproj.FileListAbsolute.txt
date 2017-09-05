@@ -1,0 +1,21 @@
+C:\Users\Smarta\AppData\Local\Temporary Projects\loputoo\bin\Debug\loputoo.exe
+C:\Users\Smarta\AppData\Local\Temporary Projects\loputoo\bin\Debug\loputoo.pdb
+C:\Users\Smarta\AppData\Local\Temporary Projects\loputoo\bin\Debug\loputoo.xml
+C:\Users\Smarta\AppData\Local\Temporary Projects\loputoo\obj\Debug\loputoo.vbprojResolveAssemblyReference.cache
+C:\Users\Smarta\AppData\Local\Temporary Projects\loputoo\obj\Debug\loputoo.Form1.resources
+C:\Users\Smarta\AppData\Local\Temporary Projects\loputoo\obj\Debug\loputoo.Resources.resources
+C:\Users\Smarta\AppData\Local\Temporary Projects\loputoo\obj\Debug\loputoo.vbproj.GenerateResource.Cache
+C:\Users\Smarta\AppData\Local\Temporary Projects\loputoo\obj\Debug\loputoo.exe
+C:\Users\Smarta\AppData\Local\Temporary Projects\loputoo\obj\Debug\loputoo.xml
+C:\Users\Smarta\AppData\Local\Temporary Projects\loputoo\obj\Debug\loputoo.pdb
+C:\Users\Smarta\Documents\Visual Studio 2015\Projects\loputoo\loputoo\obj\Debug\loputoo.exe
+C:\Users\Smarta\Documents\Visual Studio 2015\Projects\loputoo\loputoo\obj\Debug\loputoo.xml
+C:\Users\Smarta\Documents\Visual Studio 2015\Projects\loputoo\loputoo\obj\Debug\loputoo.pdb
+C:\Users\Smarta\Documents\Visual Studio 2015\Projects\loputoo\loputoo\bin\Debug\loputoo.exe
+C:\Users\Smarta\Documents\Visual Studio 2015\Projects\loputoo\loputoo\bin\Debug\loputoo.pdb
+C:\Users\Smarta\Documents\Visual Studio 2015\Projects\loputoo\loputoo\bin\Debug\loputoo.xml
+C:\Users\Smarta\Documents\Visual Studio 2015\Projects\loputoo\loputoo\obj\Debug\loputoo.vbprojResolveAssemblyReference.cache
+C:\Users\Smarta\Documents\Visual Studio 2015\Projects\loputoo\loputoo\obj\Debug\loputoo.Resources.resources
+C:\Users\Smarta\Documents\Visual Studio 2015\Projects\loputoo\loputoo\obj\Debug\loputoo.vbproj.GenerateResource.Cache
+C:\Users\Smarta\Documents\Visual Studio 2015\Projects\loputoo\loputoo\obj\Debug\loputoo.formSummaRuut.resources
+C:\Users\Smarta\Documents\Visual Studio 2015\Projects\loputoo\loputoo\obj\Debug\loputoo.vbproj.CoreCompileInputs.cache
